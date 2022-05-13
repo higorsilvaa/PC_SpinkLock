@@ -8,4 +8,4 @@ As the results, a graffic will be generated on the main directory within times o
 You can set up the parameters in the begin of main code.
 The parameters are statics variables.
 You can set parameters like matrix dimension, number of tests, number of threads, etc.
-If matriz size can be set to zero. This means the critic section will has nothing to execute.
+Matriz size can be set to zero. This means the critic section will has nothing to execute.
