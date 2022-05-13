@@ -1,11 +1,7 @@
 # PC_SpinkLock
 
-These algorithms are implementations of locks from literature.
-The implementations can be found easyly on web.
+These algorithms are implementations of locks from the literature. Implementations can be found easily on the web.
 
-To run the experiments, try *./run.sh* on terminal linux.
-As the results, a graffic will be generated on the main directory within times of each algorithm.
-You can set up the parameters in the begin of main code.
-The parameters are statics variables.
-You can set parameters like matrix dimension, number of tests, number of threads, etc.
-Matriz size can be set to zero. This means the critic section will has nothing to execute.
+To run the experiments, try *./run.sh* in the linux terminal. As a result, a graph will be generated in the main directory within the times of each algorithm. <br>
+You can configure the parameters at the beginning of the main class. The parameters are static variables. You can set parameters like array dimension, number of tests, number of threads, etc. <br>
+The array size can be set to zero. This means that the critical section will have nothing to run.
